@@ -42,6 +42,10 @@ cd Chat-App
 
 ### Usage
 
+### Chat Server
+
+To start a chat server, run:
+
 ```bash
 cd Chat_Server && cargo run --release --bin Chat_Server
 ```
@@ -79,7 +83,7 @@ You will be prompted to enter the server address and port. After connecting, you
 ### **Video_Demo**
 
 
-<video src="https://raw.githubusercontent.com/Cyberguru1/Chat-App/main/out.mp4" width="1500" />
+![](<video src="https://raw.githubusercontent.com/Cyberguru1/Chat-App/main/out.mp4" width="1500" />)
 
 
 ## License
