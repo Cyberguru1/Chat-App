@@ -40,15 +40,13 @@ git clone https://github.com/Cyberguru1/Chat-App.git
 cd Chat-App
 ```
 
-```## Usage
-
-### Chat Server
-
-To start the chat server, run:
+### Usage
 
 ```bash
 cd Chat_Server && cargo run --release --bin Chat_Server
 ```
+
+Ensure to run the server first before running the clients...
 
 The server will start and listen for incoming client connections on a specified port.
 
