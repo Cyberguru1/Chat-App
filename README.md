@@ -82,6 +82,10 @@ You will be prompted to enter the server address and port. After connecting, you
 
 ### **Video_Demo**
 
+
+<video src="https://github.com/Cyberguru1/Chat-App/blob/main/out.mp4" width="500" />
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
