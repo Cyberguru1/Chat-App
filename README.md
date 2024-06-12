@@ -80,9 +80,8 @@ You will be prompted to enter the server address and port. After connecting, you
 
 ![1718199975093.png](./1718199975093.png)
 
-### **Video_Demo**
+### Video_Demo
 
-<video src="https://raw.githubusercontent.com/Cyberguru1/Chat-App/main/out.mp4" width="1500" />
 
 ## License
 
