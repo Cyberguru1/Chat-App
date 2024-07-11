@@ -10,6 +10,7 @@ const MSG_SIZE: usize = 64;
 
 
 fn main() {
+    /// Client connection initializing...
     println!("Client initializing...\n");
 
     let mut client = TcpStream::connect(LOCAL).expect("Stream Failed to connect!");

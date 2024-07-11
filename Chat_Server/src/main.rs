@@ -9,6 +9,7 @@ const LOCAL: &str = "127.0.0.1:5000";
 const MSG_SIZE: usize = 64;
 
 fn main() {
+    /// Server Code
     println!("Server is initializing...");
     println!("Server started...");
     println!("Server serving at {LOCAL}...\n");
